@@ -1,6 +1,8 @@
 # k-Way Collision Probabilities: Vectorized Monte Carlo vs Poisson
 
 **Delta Code 2026 @ Technozion (NIT Warangal), Round 2: Probability & Statistics**
+
+
 **Team Enthusiast** · Krish Agrawal · krishagrawal222@gmail.com
 
 Estimates `P(some bucket receives >= k of n uniform keys among C buckets)` with a fully
